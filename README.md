@@ -5,7 +5,7 @@ Kod z kursu który został napisany w notatnikach google colab został przeniesi
 Dla każdej sekcji jest przygotowany jeden notatnik z podziałem na sekcje, aby otworzyć u siebie taki notatnik wystarczy kliknąć "Open in Colab" który jest na początku każdego notatnika.
 ------------
 Aktualnie notatniki -
-"Python w pigułce" z sekcji 3 
+"Python_w_pigułce" z sekcji 3 
 "Numpy_" z sekcji 5
 "Pandas_" z sekcji 7
 "matplotlib_" z sekcji 8
